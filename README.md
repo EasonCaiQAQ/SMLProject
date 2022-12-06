@@ -1,2 +1,2 @@
 # SMLProject
-Statistic Machine Learning
+Statistic Machine Learning(UPPSALA,1RT700 ,2022)
